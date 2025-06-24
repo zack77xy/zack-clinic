@@ -1,0 +1,357 @@
+[
+  {
+    "nom": "Grippe",
+    "symptomes": ["fièvre", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "COVID-19",
+    "symptomes": ["douleur", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Diabète de type 2",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Hypertension",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Asthme",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Bronchite",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Pneumonie",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Tuberculose",
+    "symptomes": ["fièvre", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Paludisme",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Dengue",
+    "symptomes": ["fièvre", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Hépatite A",
+    "symptomes": ["fièvre", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Hépatite B",
+    "symptomes": ["douleur", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Hépatite C",
+    "symptomes": ["fièvre", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "VIH",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Anémie",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Arthrite",
+    "symptomes": ["douleur", "nausée", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Goutte",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Migraine",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Méningite",
+    "symptomes": ["fièvre", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Sclérose en plaques",
+    "symptomes": ["douleur", "nausée", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Maladie de Parkinson",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Maladie d'Alzheimer",
+    "symptomes": ["fièvre", "nausée", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Cancer du poumon",
+    "symptomes": ["fièvre", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Cancer du sein",
+    "symptomes": ["douleur", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Cancer colorectal",
+    "symptomes": ["douleur", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Cancer de la prostate",
+    "symptomes": ["fièvre", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Cancer de la peau",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Leucémie",
+    "symptomes": ["fièvre", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Lymphome",
+    "symptomes": ["fièvre", "nausée", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Maladie de Crohn",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Colite ulcéreuse",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Reflux gastro-œsophagien",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Ulcère gastrique",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Insuffisance cardiaque",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Angine de poitrine",
+    "symptomes": ["fièvre", "nausée", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Infarctus du myocarde",
+    "symptomes": ["fièvre", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Accident vasculaire cérébral",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Thrombose veineuse profonde",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Embolie pulmonaire",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Hypothyroïdie",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Hyperthyroïdie",
+    "symptomes": ["douleur", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Psoriasis",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Eczéma",
+    "symptomes": ["douleur", "nausée", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Dermatite de contact",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Acné",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Varicelle",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Rougeole",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Oreillons",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Coqueluche",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Tétanos",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Poliomyélite",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Rage",
+    "symptomes": ["douleur", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Fièvre typhoïde",
+    "symptomes": ["fièvre", "nausée", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Choléra",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Syphilis",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Gonorrhée",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Chlamydia",
+    "symptomes": ["fièvre", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Cystite",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Pyélonéphrite",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Sinusite",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Otite",
+    "symptomes": ["fièvre", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Pharyngite",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Laryngite",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Bronchiolite",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Apnée du sommeil",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Obésité",
+    "symptomes": ["douleur", "fatigue", "toux"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Hypercholestérolémie",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Ostéoporose",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Luxation de l'épaule",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Entorse de la cheville",
+    "symptomes": ["douleur", "fatigue", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  },
+  {
+    "nom": "Fracture du radius",
+    "symptomes": ["douleur", "nausée", "maux de tête"],
+    "traitement": ["repos", "paracétamol", "hydratation"]
+  }
+]

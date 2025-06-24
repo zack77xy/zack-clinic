@@ -1,0 +1,636 @@
+{
+  "maladies": [
+    {
+      "id": 1,
+      "nom": "Grippe (Influenza)",
+      "traitements": [
+        {
+          "nom": "Oseltamivir",
+          "posologie": "75 mg 2×/jour pendant 5 jours"
+        },
+        {
+          "nom": "Paracétamol",
+          "posologie": "500 mg toutes les 6 h si fièvre"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Hypertension essentielle",
+      "traitements": [
+        {
+          "nom": "Lisinopril",
+          "posologie": "10 mg 1×/jour"
+        },
+        {
+          "nom": "Amlodipine",
+          "posologie": "5 mg 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Diabète de type 2",
+      "traitements": [
+        {
+          "nom": "Metformine",
+          "posologie": "500 mg 2×/jour"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nom": "Pneumonie bactérienne communautaire",
+      "traitements": [
+        {
+          "nom": "Amoxicilline‑clavulanate",
+          "posologie": "1 g 3×/jour 7 jours"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nom": "Asthme persistant léger",
+      "traitements": [
+        {
+          "nom": "Salbutamol",
+          "posologie": "inhalateur 100 µg si besoin"
+        },
+        {
+          "nom": "Budesonide",
+          "posologie": "inhalateur 200 µg 2×/jour"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nom": "Dyslipidémie",
+      "traitements": [
+        {
+          "nom": "Atorvastatine",
+          "posologie": "20 mg 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nom": "RGO (reflux gastro‑œsophagien)",
+      "traitements": [
+        {
+          "nom": "Oméprazole",
+          "posologie": "20 mg 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nom": "Dépression majeure",
+      "traitements": [
+        {
+          "nom": "Sertraline",
+          "posologie": "50 mg 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nom": "Anxiété généralisée",
+      "traitements": [
+        {
+          "nom": "Escitalopram",
+          "posologie": "10 mg 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nom": "Migraine",
+      "traitements": [
+        {
+          "nom": "Ibuprofène",
+          "posologie": "400 mg si douleur"
+        },
+        {
+          "nom": "Sumatriptan",
+          "posologie": "50 mg si crise"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nom": "Arthrose du genou",
+      "traitements": [
+        {
+          "nom": "Paracétamol",
+          "posologie": "1 g 3×/jour"
+        },
+        {
+          "nom": "Ibuprofène",
+          "posologie": "400 mg 3×/jour"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nom": "Polyarthrite rhumatoïde",
+      "traitements": [
+        {
+          "nom": "Méthotrexate",
+          "posologie": "15 mg 1×/semaine"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "nom": "Hypothyroïdie",
+      "traitements": [
+        {
+          "nom": "Lévothyroxine",
+          "posologie": "50 µg 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "nom": "BPCO (modérée)",
+      "traitements": [
+        {
+          "nom": "Tiotropium",
+          "posologie": "18 µg 1×/jour"
+        },
+        {
+          "nom": "Salbutamol",
+          "posologie": "inhalateur si besoin"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "nom": "Tuberculose pulmonaire",
+      "traitements": [
+        {
+          "nom": "Isoniazide + Rifampicine + Pyrazinamide + Ethambutol",
+          "posologie": "(6 mois)"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "nom": "Paludisme – P. falciparum",
+      "traitements": [
+        {
+          "nom": "Artéméther‑luméfantrine,",
+          "posologie": "schéma pondéral 3 jours"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "nom": "Infection VIH chronique",
+      "traitements": [
+        {
+          "nom": "Tenofovir/Emtricitabine",
+          "posologie": "+ Dolutégravir 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "nom": "Otite moyenne aiguë",
+      "traitements": [
+        {
+          "nom": "Amoxicilline",
+          "posologie": "500 mg 3×/jour 7 jours"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "nom": "Sinusite aiguë",
+      "traitements": [
+        {
+          "nom": "Amoxicilline‑clavulanate",
+          "posologie": "1 g 3×/jour 7 jours"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "nom": "Cystite simple",
+      "traitements": [
+        {
+          "nom": "Nitrofurantoïne",
+          "posologie": "100 mg 2×/jour 5 jours"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "nom": "Cystite compliquée",
+      "traitements": [
+        {
+          "nom": "Ciprofloxacine",
+          "posologie": "500 mg 2×/jour 7 jours"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "nom": "Ulcère gastrique à H. pylori",
+      "traitements": [
+        {
+          "nom": "Oméprazole",
+          "posologie": "+ Amoxicilline + Clarithromycine 14 jours"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "nom": "Diarrhée aiguë",
+      "traitements": [
+        {
+          "nom": "SRO",
+          "posologie": "ad libitum"
+        },
+        {
+          "nom": "Lopéramide",
+          "posologie": "2 mg si besoin"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "nom": "Constipation fonctionnelle",
+      "traitements": [
+        {
+          "nom": "Macrogol",
+          "posologie": "17 g 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "nom": "Anémie ferriprive",
+      "traitements": [
+        {
+          "nom": "Sulfate",
+          "posologie": "ferreux 325 mg 3×/jour"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "nom": "Anémie mégaloblastique",
+      "traitements": [
+        {
+          "nom": "Cobalamine",
+          "posologie": "1 000 µg IM mensuel"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "nom": "COVID‑19 (léger)",
+      "traitements": [
+        {
+          "nom": "Paracétamol",
+          "posologie": "500 mg si fièvre"
+        },
+        {
+          "nom": "Repos",
+          "posologie": "– isolement"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "nom": "COVID‑19 (sévère)",
+      "traitements": [
+        {
+          "nom": "Dexaméthasone",
+          "posologie": "6 mg 1×/jour 10 jours"
+        },
+        {
+          "nom": "Oxygénothérapie",
+          "posologie": "ciblée"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "nom": "Varicelle",
+      "traitements": [
+        {
+          "nom": "Aciclovir",
+          "posologie": "800 mg 5×/jour 5 jours"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "nom": "Herpès labial",
+      "traitements": [
+        {
+          "nom": "Aciclovir",
+          "posologie": "400 mg 3×/jour 7 jours"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "nom": "Zona",
+      "traitements": [
+        {
+          "nom": "Valaciclovir",
+          "posologie": "1 g 3×/jour 7 jours"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "nom": "Hépatite B chronique",
+      "traitements": [
+        {
+          "nom": "Ténofovir",
+          "posologie": "300 mg 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "nom": "Hépatite C chronique",
+      "traitements": [
+        {
+          "nom": "Sofosbuvir/Velpatasvir",
+          "posologie": "1 cp 1×/jour 12 semaines"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "nom": "Hyperplasie bénigne de la prostate",
+      "traitements": [
+        {
+          "nom": "Tamsulosine",
+          "posologie": "0.4 mg 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "nom": "Dysfonction érectile",
+      "traitements": [
+        {
+          "nom": "Sildénafil",
+          "posologie": "50 mg à la demande"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "nom": "Maladie de Parkinson",
+      "traitements": [
+        {
+          "nom": "Levodopa/Carbidopa",
+          "posologie": "100/25 mg 3×/jour"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "nom": "Maladie d'Alzheimer",
+      "traitements": [
+        {
+          "nom": "Donépézil",
+          "posologie": "5 mg 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "nom": "Épilepsie généralisée",
+      "traitements": [
+        {
+          "nom": "Acide",
+          "posologie": "valproïque 500 mg 2×/jour"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "nom": "Épilepsie focale",
+      "traitements": [
+        {
+          "nom": "Carbamazépine",
+          "posologie": "200 mg 2×/jour"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "nom": "Hyponatrémie sévère",
+      "traitements": [
+        {
+          "nom": "Sérum",
+          "posologie": "salé hypertonique 3 % perfusion lente"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "nom": "Hyperkaliémie",
+      "traitements": [
+        {
+          "nom": "Gluconate",
+          "posologie": "de calcium 10 % 10 ml IV"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "nom": "Hypokaliémie",
+      "traitements": [
+        {
+          "nom": "Chlorure",
+          "posologie": "de potassium 20 mEq PO"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "nom": "Appendicite aiguë",
+      "traitements": [
+        {
+          "nom": "Ceftriaxone",
+          "posologie": "2 g IV pré‑op"
+        },
+        {
+          "nom": "Appendicectomie",
+          "posologie": ""
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "nom": "Crise de goutte",
+      "traitements": [
+        {
+          "nom": "Colchicine",
+          "posologie": "0.6 mg 2×/jour"
+        },
+        {
+          "nom": "Indométacine",
+          "posologie": "50 mg 3×/jour"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "nom": "Hyperuricémie chronique",
+      "traitements": [
+        {
+          "nom": "Allopurinol",
+          "posologie": "300 mg 1×/jour"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "nom": "Psoriasis en plaques",
+      "traitements": [
+        {
+          "nom": "Clobétasol",
+          "posologie": "topique 0.05 % 1×/jour"
+        },
+        {
+          "nom": "Méthotrexate",
+          "posologie": "15 mg hebdo"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "nom": "Dermatite atopique",
+      "traitements": [
+        {
+          "nom": "Hydrocortisone",
+          "posologie": "topique 1 % 1×/jour"
+        },
+        {
+          "nom": "Émollients",
+          "posologie": "fréquents"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "nom": "Acné vulgaire",
+      "traitements": [
+        {
+          "nom": "Benzoyle",
+          "posologie": "peroxyde 5 % topique"
+        },
+        {
+          "nom": "Doxycycline",
+          "posologie": "100 mg 2×/jour"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "nom": "Conjonctivite bactérienne",
+      "traitements": [
+        {
+          "nom": "Chloramphénicol",
+          "posologie": "collyre 0.5 % 4×/jour 5 jours"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "nom": "Cataracte",
+      "traitements": [
+        {
+          "nom": "Chirurgie",
+          "posologie": "d'extraction du cristallin"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "nom": "Glaucome chronique à angle ouvert",
+      "traitements": [
+        {
+          "nom": "Timolol",
+          "posologie": "0.5 % collyre 2×/jour"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "nom": "Rhinite allergique",
+      "traitements": [
+        {
+          "nom": "Loratadine",
+          "posologie": "10 mg 1×/jour"
+        },
+        {
+          "nom": "Fluticasone",
+          "posologie": "nasal 2 puffs/nostril/jour"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "nom": "Otite externe",
+      "traitements": [
+        {
+          "nom": "Ciprofloxacine",
+          "posologie": "gouttes auriculaires 2×/jour 7 jours"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "nom": "Hémorroïdes",
+      "traitements": [
+        {
+          "nom": "Suppositoire",
+          "posologie": "hydrocortisone 2×/jour"
+        },
+        {
+          "nom": "Bains",
+          "posologie": "de siège"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "nom": "Sciatique",
+      "traitements": [
+        {
+          "nom": "Ibuprofène",
+          "posologie": "400 mg 3×/jour"
+        },
+        {
+          "nom": "Physiothérapie",
+          "posologie": "ciblée"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "nom": "Fracture de l'humérus",
+      "traitements": [
+        {
+          "nom": "Immobilisation",
+          "posologie": "(attelle/plâtre)"
+        },
+        {
+          "nom": "Analgésiques",
+          "posologie": "appropriés"
+        }
+      ]
+    }
+  ]
+}
